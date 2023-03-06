@@ -153,7 +153,7 @@ export default {
         }
 
         &:nth-child(4) {
-          background-color: #9E0404;
+          // background-color: #9E0404;
           white-space: pre-wrap;
           max-width: 20vw;
         }
