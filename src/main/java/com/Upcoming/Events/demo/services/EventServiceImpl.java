@@ -50,5 +50,4 @@ public class EventServiceImpl implements BaseService<Event>{
     public void deleteById(Long id) {
        eventRepository.deleteById(id);
     }
-    
 }
